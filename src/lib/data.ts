@@ -4,7 +4,7 @@ export const personalInfo = {
   email: "terryismael2@gmail.com",
   github: "https://github.com/TerryIsmael",
   linkedin: "https://www.linkedin.com/in/ismael-barrera-garcía-778357298/",
-  profilePicture: "/profile_photo.jpg",
+  profilePicture: "profile_photo.jpg",
   heroDescription: `Ingeniero junior de software, con una sólida base en desarrollo de aplicaciones
  web y estructuras de datos. Durante mi formación, adquirí
  experiencia en lenguajes como Python, Java y Javascript, además de
