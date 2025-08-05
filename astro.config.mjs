@@ -11,8 +11,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: "https://terryismael.github.io",
-  trailingSlash: "never",
-  base: "/docs",
-  outDir: './docs',
   integrations: [react()],
 });
